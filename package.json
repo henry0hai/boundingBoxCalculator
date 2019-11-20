@@ -1,5 +1,5 @@
 {
-  "name": "boundingBoxCalculator",
+  "name": "bounding_box_calculator",
   "version": "1.0.0",
   "description": "Calculate bounding box base on input lat, lon, and zoom level",
   "main": "index.js",
