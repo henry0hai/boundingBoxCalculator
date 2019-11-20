@@ -1,0 +1,13 @@
+{
+  "name": "boundingBoxCalculator",
+  "version": "1.0.0",
+  "description": "Calculate bounding box base on input lat, lon, and zoom level",
+  "main": "index.js",
+  "repository": "https://github.com/henry0hai/boundingBoxCalculator",
+  "author": "henry0hai",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
